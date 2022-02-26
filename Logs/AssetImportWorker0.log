@@ -1,0 +1,578 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.25f1 (9b9180224418) revision 10195328'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22000) 64bit Professional' Language: 'en' Physical Memory: 16309 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.25f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/tamer/Desktop/Ex_Files_Unity5_2D_Adventure/Exercise Files/FinalProject/Jetroid
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+62896
+Successfully changed project path to: C:/Users/tamer/Desktop/Ex_Files_Unity5_2D_Adventure/Exercise Files/FinalProject/Jetroid
+C:/Users/tamer/Desktop/Ex_Files_Unity5_2D_Adventure/Exercise Files/FinalProject/Jetroid
+Using Asset Import Pipeline V2.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Refreshing native plugins compatible for Editor in 27.87 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.25f1 (9b9180224418)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/tamer/Desktop/Ex_Files_Unity5_2D_Adventure/Exercise Files/FinalProject/Jetroid/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1660 SUPER (ID=0x21c4)
+    Vendor:   
+    VRAM:     5992 MB
+    Driver:   30.0.15.1179
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56496
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/PlaybackEngines/LuminSupport/UnityEditor.Lumin.Extensions.dll
+Registered in 0.002523 seconds.
+Native extension for Lumin target not found
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 29.09 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.484 seconds
+Domain Reload Profiling:
+	ReloadAssembly (484ms)
+		BeginReloadAssembly (42ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (382ms)
+			LoadAssemblies (42ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (133ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (26ms)
+			SetupLoadedEditorAssemblies (139ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (7ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (29ms)
+				BeforeProcessingInitializeOnLoad (8ms)
+				ProcessInitializeOnLoadAttributes (70ms)
+				ProcessInitializeOnLoadMethodAttributes (24ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.003675 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for Lumin target not found
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.43 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.815 seconds
+Domain Reload Profiling:
+	ReloadAssembly (816ms)
+		BeginReloadAssembly (112ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (16ms)
+		EndReloadAssembly (655ms)
+			LoadAssemblies (68ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (234ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (38ms)
+			SetupLoadedEditorAssemblies (242ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (47ms)
+				ProcessInitializeOnLoadAttributes (176ms)
+				ProcessInitializeOnLoadMethodAttributes (7ms)
+				AfterProcessingInitializeOnLoad (4ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (5ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 0.36 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1516 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 69.7 MB.
+System memory in use after: 69.8 MB.
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 1947.
+Total: 2.665800 ms (FindLiveObjects: 0.130000 ms CreateObjectMapping: 0.037400 ms MarkObjects: 2.436000 ms  DeleteObjects: 0.061400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Jetroid/Prefabs/Spikes.prefab
+  artifactKey: Guid(f6d214129d20940c087d43f2be63983a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Jetroid/Prefabs/Spikes.prefab using Guid(f6d214129d20940c087d43f2be63983a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06bfd47b5989f60014689f1482f654be') in 0.080249 seconds 
+  Import took 0.082645 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/Jetroid/Prefabs/Debris.prefab
+  artifactKey: Guid(f7832f648fb1b4c5d9c9af6b845f7c11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Jetroid/Prefabs/Debris.prefab using Guid(f7832f648fb1b4c5d9c9af6b845f7c11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b926e0ddf1df8a92ab76fa577021e92') in 0.011758 seconds 
+  Import took 0.014105 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000290 seconds.
+  path: Assets/Jetroid/Materials/Bounce.physicsMaterial2D
+  artifactKey: Guid(d28e8db2542f94f4ba60e3b73fe4ed0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Jetroid/Materials/Bounce.physicsMaterial2D using Guid(d28e8db2542f94f4ba60e3b73fe4ed0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6d4e9f50f13ec379a840b29d9e786f2') in 0.004182 seconds 
+  Import took 0.006595 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/Jetroid/Prefabs/Player.prefab
+  artifactKey: Guid(fe45833e0496549acb0e3cd5a42fe41d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Jetroid/Prefabs/Player.prefab using Guid(fe45833e0496549acb0e3cd5a42fe41d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd656a2c7e5ae3f8b24d46d3f98867ed7') in 0.011630 seconds 
+  Import took 0.014002 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/Jetroid/Prefabs/Crystal.prefab
+  artifactKey: Guid(c1da0bf45ea4b433c99c33bfe55b0dcd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Jetroid/Prefabs/Crystal.prefab using Guid(c1da0bf45ea4b433c99c33bfe55b0dcd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2648e6324ad74723a03bae3a5c133cd5') in 0.008006 seconds 
+  Import took 0.010242 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000254 seconds.
+  path: Assets/Jetroid/Prefabs/AlienA.prefab
+  artifactKey: Guid(84e86fb25a98746fe9d5422fc0b249fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Jetroid/Prefabs/AlienA.prefab using Guid(84e86fb25a98746fe9d5422fc0b249fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9366c46807f97887baf21fff12ddfa1') in 0.008826 seconds 
+  Import took 0.011147 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.325641 seconds.
+  path: Assets/Jetroid/Scripts/CameraFollow.cs
+  artifactKey: Guid(47c9bad39d6a74e039e1cc0ad654c8d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Jetroid/Scripts/CameraFollow.cs using Guid(47c9bad39d6a74e039e1cc0ad654c8d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1e519e8a639d25b89a1199f574e4daa') in 0.007740 seconds 
+  Import took 0.010869 seconds .
+
+========================================================================
+Received Prepare
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Refreshing native plugins compatible for Editor in 4.31 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 12 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 43.8 MB.
+System memory in use after: 43.9 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 1954.
+Total: 4.473200 ms (FindLiveObjects: 0.207500 ms CreateObjectMapping: 0.038300 ms MarkObjects: 4.203500 ms  DeleteObjects: 0.022500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 6.268264 seconds.
+  path: Assets/Jetroid/Scripts/ClickToContinue.cs
+  artifactKey: Guid(14994f0fe043e4dc6be5ba70bc4e8d8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Jetroid/Scripts/ClickToContinue.cs using Guid(14994f0fe043e4dc6be5ba70bc4e8d8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0313154f62edc08a7db423aee28b7672') in 0.002529 seconds 
+  Import took 0.005375 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.471534 seconds.
+  path: Assets/Jetroid/Scripts/Collectible.cs
+  artifactKey: Guid(136e7dc0e88814326a0f498cf73a8bbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Jetroid/Scripts/Collectible.cs using Guid(136e7dc0e88814326a0f498cf73a8bbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c40ca6f662360be9823d585932dfe69') in 0.002067 seconds 
+  Import took 0.004786 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.748416 seconds.
+  path: Assets/Jetroid/Scripts/Debris.cs
+  artifactKey: Guid(470833a20b2524912a5b3af83b190005) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Jetroid/Scripts/Debris.cs using Guid(470833a20b2524912a5b3af83b190005) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '523276581a0dcacb368345132927e483') in 0.001644 seconds 
+  Import took 0.004335 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.175532 seconds.
+  path: Assets/Jetroid/Scripts/FloatEffect.cs
+  artifactKey: Guid(5fe36828335aa428eb278f5b3354ffb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Jetroid/Scripts/FloatEffect.cs using Guid(5fe36828335aa428eb278f5b3354ffb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94ae4017967ac0d0878c34b7b0ff7888') in 0.002125 seconds 
+  Import took 0.006760 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.462909 seconds.
+  path: Assets/Jetroid/Scripts/LookForward.cs
+  artifactKey: Guid(bbeaddaf5f3334e9586f64ba9e97f0bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Jetroid/Scripts/LookForward.cs using Guid(bbeaddaf5f3334e9586f64ba9e97f0bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '104f74470d782fd717d20d89b89cfe04') in 0.002370 seconds 
+  Import took 0.005384 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.911761 seconds.
+  path: Assets/Jetroid/Scripts/MoveForward.cs
+  artifactKey: Guid(67a9ba27511164ca3aa7267f9ce57c87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Jetroid/Scripts/MoveForward.cs using Guid(67a9ba27511164ca3aa7267f9ce57c87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c3825c6b763c7b14087ca9cbbf44d65') in 0.002054 seconds 
+  Import took 0.004938 seconds .
+
+========================================================================
+Received Prepare
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Registering precompiled user dll's ...
+Registered in 0.003127 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for Lumin target not found
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.45 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.813 seconds
+Domain Reload Profiling:
+	ReloadAssembly (813ms)
+		BeginReloadAssembly (109ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (33ms)
+		EndReloadAssembly (654ms)
+			LoadAssemblies (75ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (249ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (36ms)
+			SetupLoadedEditorAssemblies (219ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (45ms)
+				ProcessInitializeOnLoadAttributes (156ms)
+				ProcessInitializeOnLoadMethodAttributes (7ms)
+				AfterProcessingInitializeOnLoad (4ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (5ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.69 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1510 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 72.6 MB.
+System memory in use after: 72.7 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1956.
+Total: 3.060800 ms (FindLiveObjects: 0.197500 ms CreateObjectMapping: 0.039300 ms MarkObjects: 2.800800 ms  DeleteObjects: 0.021600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 14.758271 seconds.
+  path: Assets/Jetroid/Scripts/MoveForward.cs
+  artifactKey: Guid(67a9ba27511164ca3aa7267f9ce57c87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Jetroid/Scripts/MoveForward.cs using Guid(67a9ba27511164ca3aa7267f9ce57c87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b69fd4f7726d9c78cce80d12644d8719') in 0.004975 seconds 
+  Import took 0.007527 seconds .
+
+========================================================================
+Received Prepare
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Registering precompiled user dll's ...
+Registered in 0.003175 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for Lumin target not found
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.39 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.873 seconds
+Domain Reload Profiling:
+	ReloadAssembly (874ms)
+		BeginReloadAssembly (121ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (50ms)
+		EndReloadAssembly (699ms)
+			LoadAssemblies (77ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (254ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (38ms)
+			SetupLoadedEditorAssemblies (248ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (7ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (51ms)
+				ProcessInitializeOnLoadAttributes (179ms)
+				ProcessInitializeOnLoadMethodAttributes (6ms)
+				AfterProcessingInitializeOnLoad (4ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (5ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.38 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1510 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 72.6 MB.
+System memory in use after: 72.8 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1958.
+Total: 3.076200 ms (FindLiveObjects: 0.203000 ms CreateObjectMapping: 0.038500 ms MarkObjects: 2.810300 ms  DeleteObjects: 0.021800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 87.450016 seconds.
+  path: Assets/TileMapEditor/Artwork/dorm-tiles.png
+  artifactKey: Guid(7308706bcdee54d2a969cd0093e145a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMapEditor/Artwork/dorm-tiles.png using Guid(7308706bcdee54d2a969cd0093e145a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a82b192ee8d5bf18dbb549734fc63c35') in 0.074429 seconds 
+  Import took 0.077416 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.576025 seconds.
+  path: Assets/TileMapEditor/Editor/NewTileMapMenu.cs
+  artifactKey: Guid(87e34d2cc4ddf409994a245fa41e4867) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMapEditor/Editor/NewTileMapMenu.cs using Guid(87e34d2cc4ddf409994a245fa41e4867) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bfe39028557b6e14bd5479fe60136457') in 0.001995 seconds 
+  Import took 0.004737 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.147108 seconds.
+  path: Assets/TileMapEditor/Editor/TileMapEditor.cs
+  artifactKey: Guid(7c20d6dd139b0482e93e801486285ce7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMapEditor/Editor/TileMapEditor.cs using Guid(7c20d6dd139b0482e93e801486285ce7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '888b01097f5d0656fa22eeb483d93df9') in 0.001963 seconds 
+  Import took 0.004582 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.741293 seconds.
+  path: Assets/TileMapEditor/Editor/TilePickerWindow.cs
+  artifactKey: Guid(2732b5b9126d54959bf6bd61a8bc23f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMapEditor/Editor/TilePickerWindow.cs using Guid(2732b5b9126d54959bf6bd61a8bc23f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5b2662aee4d1fcff4a86c4adc8645d0') in 0.002324 seconds 
+  Import took 0.005314 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 66.490304 seconds.
+  path: Assets/TileMapEditor/Scenes/TileMapEditorStaging.unity
+  artifactKey: Guid(b1f94933742314a5f84cb0b3b7b78ad3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMapEditor/Scenes/TileMapEditorStaging.unity using Guid(b1f94933742314a5f84cb0b3b7b78ad3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09f18baaf7eddb27c7634fead5862649') in 0.002495 seconds 
+  Import took 0.005347 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 56.780950 seconds.
+  path: Assets/TileMapEditor/Scripts/TileBrush.cs
+  artifactKey: Guid(254944f21693b446687fc5989821a0be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMapEditor/Scripts/TileBrush.cs using Guid(254944f21693b446687fc5989821a0be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c53e876688c9e64ddc411b108d02f0b7') in 0.002025 seconds 
+  Import took 0.004892 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.615433 seconds.
+  path: Assets/TileMapEditor/Scripts/TileMap.cs
+  artifactKey: Guid(55b43ad6706694e98b397f0ba34185a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMapEditor/Scripts/TileMap.cs using Guid(55b43ad6706694e98b397f0ba34185a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76c90b8ea6e66d70e5784cab58d1b3df') in 0.001827 seconds 
+  Import took 0.004447 seconds .
+
+========================================================================
+Received Prepare
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Registering precompiled user dll's ...
+Registered in 0.003360 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for Lumin target not found
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.43 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.753 seconds
+Domain Reload Profiling:
+	ReloadAssembly (754ms)
+		BeginReloadAssembly (88ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (29ms)
+		EndReloadAssembly (616ms)
+			LoadAssemblies (69ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (220ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (36ms)
+			SetupLoadedEditorAssemblies (215ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (46ms)
+				ProcessInitializeOnLoadAttributes (151ms)
+				ProcessInitializeOnLoadMethodAttributes (7ms)
+				AfterProcessingInitializeOnLoad (4ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (5ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.41 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1510 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 72.7 MB.
+System memory in use after: 72.8 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1964.
+Total: 2.876900 ms (FindLiveObjects: 0.161800 ms CreateObjectMapping: 0.037600 ms MarkObjects: 2.654800 ms  DeleteObjects: 0.021200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
